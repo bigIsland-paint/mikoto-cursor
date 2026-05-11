@@ -1,5 +1,10 @@
 これは少女革命計画の美古途さんの二次創作マウスカーソルです。
 
+<img src="mikoto_cursor_preview.gif" width="200">
+
+ダウンロード  
+[Releasesからどうぞ](../../releases)
+
 おすすめの設定
 - 通常時 → mikoto_arrow.ani
 - テキスト選択時 → mikoto_beam.cur
