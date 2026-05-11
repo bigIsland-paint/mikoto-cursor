@@ -3,7 +3,7 @@
 <img src="mikoto_cursor_preview.gif" width="200">
 
 ダウンロード  
-[Releasesからどうぞ](../../releases)
+[Releasesページからどうぞ](../../releases)
 
 おすすめの設定
 - 通常時 → mikoto_arrow.ani
@@ -17,5 +17,5 @@
 - AI学習には使わないでください
 - 商用利用はしないでください
 
-連絡先
-- X(Twitter) : https://x.com/bigIsland_paint
+制作者  
+びぐあいらん（ https://x.com/bigIsland_paint ）
