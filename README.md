@@ -1,15 +1,17 @@
-Terms of Use / 利用規約
+これは少女革命計画の美古途さんのマウスカーソルです。
+ファンメイドの二次創作です。
 
-- Personal use only
-- Redistribution is prohibited
-- Commercial use is prohibited
-- AI training/use is prohibited
+おすすめの設定
+- 通常時 → mikoto_arrow.ani
+- テキスト選択時 → mikoto_beam.cur
+- リンク選択時 → mikoto_link.cur
+- ビジー / バックグラウンド作業時 → mikoto_busy.ani
 
-This is a fan-made work.
+利用規約など
+- 個人利用の範囲で使ってください
+- 二次配布はしないでください
+- AI学習には使わないでください
+- 商用利用はしないでください
 
-- 個人利用のみ可能です
-- 二次配布は禁止です
-- 商用利用は禁止です
-- AI学習への利用は禁止です
-
-この作品はファンメイドの二次創作物です。
+連絡先
+- X(Twitter) : https://x.com/bigIsland_paint
