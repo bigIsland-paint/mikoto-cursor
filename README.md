@@ -14,7 +14,7 @@
    - リンク選択 → mikoto_link.cur
    - ビジーです / バックグラウンドで作業中 → mikoto_busy.ani
 
-<img src="mikoto_cursor_setup.png" width="500">
+<img src="mikoto_cursor_setup_image.png" width="500">
 
 利用規約など
 - 個人利用の範囲で使ってください
